@@ -1,0 +1,33 @@
+/* Reset some default browser styles */
+body, h1, h2, h3, p {
+    margin: 0;
+    padding: 0;
+}
+
+/* Set a background color and font for the body */
+body {
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+    color: #333;
+}
+
+/* Style for headings */
+h1, h2, h3 {
+    margin-bottom: 10px;
+    color: #444;
+}
+
+/* Style for paragraphs */
+p {
+    margin-bottom: 15px;
+    line-height: 1.6;
+}
+
+/* Add some padding to the container */
+.container {
+    padding: 20px;
+    max-width: 800px;
+    margin: 0 auto;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
