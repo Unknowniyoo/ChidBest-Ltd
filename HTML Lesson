@@ -1,0 +1,28 @@
+HTML is what's called a declarative language. We need to declare what things are. 
+So i need to teel it, hey this is a title, This a Heaer and a Paragragh
+i need to tell the computer the meaning of every content i have in my file. 
+The Element Strong and Bold are just like Em and i... The visual treatment are exactly the same 
+These words for screen readers carries additonal weight.
+HTML is not a programming language it's a MARK UP language. That's why its called HYPER TEXT MARK UP Language
+ To Our HTML readable using INDENTATION is recommended. 
+We could enter another section and as well have another header 1 to 3
+That aside the order list doesn't matter in our Recipe but i will like to show them in Bullet list.
+We enter a new section UL and Li for List item
+Instead of using the Unorderd List we are using the OL just like we did 
+The Difference between an Unorderd List and Orderd List is we have bullets  and numbers for the orderd List items 
+There's an Element we called the <br> BREAK. Which helps in two sentences to makes it a little readable.
+I will add a lttle bit of extra clarity to  this page  which is a COMMENT.
+That says this is James Cookie Company best recipe.
+I used a less than sign and exclamation mark and two hyphens and then two hypens at the end and the greater than symbol to let the browser know that this is a comment and it should display.
+<!--    -->
+There's an element we called the ancroyn <a>  which directs us to a link and we are going to use an attribute called href or what stands for HYPERTEXT REF 
+Basically tells the browser where we should send someone and i want the person to go to recipe.html
+And again we're referring to the index.html page and here referring to it as HOME.
+The Website have a valuabe content, But what would bring it to that next level is if we include some imagery.
+ There's an element called IMG Which stands for Image that's allows us to insert an image onto the page.
+We also need to specify the image src... By using an attribute called SRC and then equal to and open quotes and then here we'll type in the file name. 
+Another Benfit of specfying the width and the Height i that the browser knows knows to reserve this space for an image before it's able to completely load. Before it completely loads the image. 
+I recommend the image element thta's the alt description
+ Anytime you add an image to your page it's going to include these four attributes, Including the source, the width, the height and also the alt text
+Table Row .....TH Table Header and TD Table Data...All table Data are stored and we add an attribute
+We have the HEAD where we can pass information and also the body content
